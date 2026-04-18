@@ -12,8 +12,7 @@ You must score 10 points to win the game.
 There is a 60-second timer. Try to finish as fast as you can to get the "Excellent" rank!
 
 🚀 Live Demo
-Check out the live game here:
-Play Math Challenge (तुझी लिंक इथे अपडेट कर)
+Check out the live game here: https://kaustubhdawbhat.github.io/Math-Challenge-JS-/
 
 🛠️ Tech Stack
 HTML5: For the game structure and layout.
